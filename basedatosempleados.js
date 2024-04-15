@@ -7,7 +7,7 @@ let empleados = Array(
     correo:"xplosionmicheladas@gmail.com",
     salario: 3000000,
     contactoEmergencia:"3147855501",
-    foto:"./img/empleado1.jpg"
+    foto:"./img/WhatsApp Image 2024-04-09 at 8.45.44 AM.jpeg"
 
   },
 {
